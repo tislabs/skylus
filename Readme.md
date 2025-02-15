@@ -1,2 +1,1 @@
-Yum install
-
+SKYLUS DEPLOYMENT 
